@@ -45,6 +45,7 @@ Includes theming, scripting, and agent guidelines.
 - [IMPORT.md](src/.md/IMPORT.md): import `base` into an existing project
 - [DEPENDENCIES.md](src/.md/DEPENDENCIES.md): tools and packages
 
+## Downloads
 
 <!-- Quick Reference -->
 <table border="0">
@@ -62,3 +63,11 @@ Includes theming, scripting, and agent guidelines.
 </tbody>
 </table>
 <!-- End Quick Reference -->
+
+## Screenshots
+
+![1](./.res/scr/1.png)
+
+![2](./.res/scr/2.png)
+
+![3](./.res/scr/3.png)
